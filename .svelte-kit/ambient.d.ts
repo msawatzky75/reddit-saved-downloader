@@ -1,0 +1,105 @@
+// this file is generated — do not edit it
+/// <reference types="@sveltejs/kit" />
+
+declare module '$env/static/public' {
+
+}
+
+declare module '$env/static/private' {
+	export const SHELL: string;
+	export const LSCOLORS: string;
+	export const SESSION_MANAGER: string;
+	export const COLORTERM: string;
+	export const LESS: string;
+	export const NVM_INC: string;
+	export const HISTCONTROL: string;
+	export const XDG_MENU_PREFIX: string;
+	export const TERM_PROGRAM_VERSION: string;
+	export const GTK_IM_MODULE: string;
+	export const HISTSIZE: string;
+	export const HOSTNAME: string;
+	export const _P9K_TTY: string;
+	export const SSH_AUTH_SOCK: string;
+	export const XDG_DATA_HOME: string;
+	export const P9K_TTY: string;
+	export const CUDA_CACHE_PATH: string;
+	export const XDG_CONFIG_HOME: string;
+	export const XMODIFIERS: string;
+	export const GNUPGHOME: string;
+	export const DESKTOP_SESSION: string;
+	export const SSH_AGENT_PID: string;
+	export const NO_AT_BRIDGE: string;
+	export const EDITOR: string;
+	export const PWD: string;
+	export const LOGNAME: string;
+	export const XDG_SESSION_DESKTOP: string;
+	export const XDG_SESSION_TYPE: string;
+	export const SYSTEMD_EXEC_PID: string;
+	export const _: string;
+	export const XAUTHORITY: string;
+	export const SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS: string;
+	export const VSCODE_GIT_ASKPASS_NODE: string;
+	export const GJS_DEBUG_TOPICS: string;
+	export const WINDOWPATH: string;
+	export const GDM_LANG: string;
+	export const HOME: string;
+	export const USERNAME: string;
+	export const COREPACK_ROOT: string;
+	export const LANG: string;
+	export const LS_COLORS: string;
+	export const CARGO_HOME: string;
+	export const XDG_CURRENT_DESKTOP: string;
+	export const npm_package_version: string;
+	export const GIT_ASKPASS: string;
+	export const INVOCATION_ID: string;
+	export const MANAGERPID: string;
+	export const INIT_CWD: string;
+	export const CHROME_DESKTOP: string;
+	export const STEAM_FRAME_FORCE_CLOSE: string;
+	export const XDG_CACHE_HOME: string;
+	export const GJS_DEBUG_OUTPUT: string;
+	export const NVM_DIR: string;
+	export const MOZ_GMP_PATH: string;
+	export const VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
+	export const XDG_SESSION_CLASS: string;
+	export const TERM: string;
+	export const npm_package_name: string;
+	export const ZSH: string;
+	export const LESSOPEN: string;
+	export const PROJECT_CWD: string;
+	export const USER: string;
+	export const VSCODE_GIT_IPC_HANDLE: string;
+	export const DISPLAY: string;
+	export const npm_lifecycle_event: string;
+	export const SHLVL: string;
+	export const NVM_CD_FLAGS: string;
+	export const PAGER: string;
+	export const QT_IM_MODULE: string;
+	export const npm_config_user_agent: string;
+	export const XDG_STATE_HOME: string;
+	export const npm_execpath: string;
+	export const XDG_RUNTIME_DIR: string;
+	export const DEBUGINFOD_URLS: string;
+	export const P9K_SSH: string;
+	export const which_declare: string;
+	export const BERRY_BIN_FOLDER: string;
+	export const VSCODE_GIT_ASKPASS_MAIN: string;
+	export const JOURNAL_STREAM: string;
+	export const XDG_DATA_DIRS: string;
+	export const GDK_BACKEND: string;
+	export const PATH: string;
+	export const DOCKER_CONFIG: string;
+	export const GDMSESSION: string;
+	export const ORIGINAL_XDG_CURRENT_DESKTOP: string;
+	export const DBUS_SESSION_BUS_ADDRESS: string;
+	export const NVM_BIN: string;
+	export const MAIL: string;
+	export const GIO_LAUNCHED_DESKTOP_FILE_PID: string;
+	export const npm_node_execpath: string;
+	export const GIO_LAUNCHED_DESKTOP_FILE: string;
+	export const OLDPWD: string;
+	export const TERM_PROGRAM: string;
+	export const NODE_ENV: string;
+	export const REDDIT_CLIENT_ID: string;
+	export const REDDIT_OAUTH: string;
+}
