@@ -33,6 +33,7 @@
 		"vite": "^3.0.0"
 	},
 	"dependencies": {
-		"@fontsource/fira-mono": "^4.5.0"
+		"@fontsource/fira-mono": "^4.5.0",
+		"jszip": "^3.10.0"
 	}
 }

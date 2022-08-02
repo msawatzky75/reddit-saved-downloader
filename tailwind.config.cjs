@@ -4,7 +4,7 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				mono: ["Fira Code", "monospace"],
+				mono: ["Fira Code", "Fira Mono", "monospace"],
 			},
 		},
 	},
